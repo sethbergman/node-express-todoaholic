@@ -1,6 +1,6 @@
-# Node Todo App
+# Node Express Todo-aholic App
 
-A Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.
+A Node app built with MongoDB and Angular.
 
 Node provides the RESTful API. Angular provides the frontend and accesses the API. MongoDB stores like a hoarder.
 
@@ -15,7 +15,7 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 2. Install the application: `npm install`
 3. Place your own MongoDB URI in `config/database.js`
 3. Start the server: `node server.js`
-4. View in browser at `http://localhost:8080`
+4. View in browser at `http://localhost:5000`
 
 Happy Todo-ing!
 
